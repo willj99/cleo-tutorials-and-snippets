@@ -1,2 +1,2 @@
 # Welcome
-Welcome to my collection of code snippets and tutorials for scripting in the early 3D era GTA titles.
+This entirely exists to document snippets of useful code and archive my tutorials or other people's tutorials regarding GTA III and Vice City coding. Just click a folder to get started :-)
